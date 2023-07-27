@@ -2,4 +2,6 @@ aiogram~=2.14
 
 googletrans=="3.1.0a0"
 
+deep_translator
+
 openpyxl=="3.0.9"
